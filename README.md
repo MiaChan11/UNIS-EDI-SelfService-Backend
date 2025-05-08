@@ -185,8 +185,3 @@ pip install -r requirements/dev.txt
 flask run --port 5000
 ```
 
-This template ensures:  
-1. Clear structure for developers  
-2. Directly executable commands  
-3. No emojis or non-English text  
-4. Machine-readable formatting
